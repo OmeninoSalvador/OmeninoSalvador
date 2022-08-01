@@ -1,13 +1,12 @@
-# sobre mim
-
-## Editando o perfil
+# Sobre mim
 
 ###### Teste
 
-# Olá
+## Olá
 
 
 - 😎 Meu User é @OmeninoSalvador
+- ✉   Meu [email] de Contato é (leonardo.rosa.guimaraes@escola.pr.gov.br)
 - 🤑 Estou interessado em Ganhar muito Dinheiro
 - 💻 Atualmente estou Estudando Computação
 - 👨‍🏫 Estudante Do Colegio CAP-UEM
